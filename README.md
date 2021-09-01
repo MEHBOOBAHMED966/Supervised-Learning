@@ -1,2 +1,2 @@
-# Supervised-Learning
+# Linear Regression
 Project
